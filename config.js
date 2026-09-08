@@ -5,7 +5,7 @@ var config = {
     // Published 8 September at 10:02 with all six layers. Do not swap this for
     // the /draft URL on a live site: draft styles are uncached and rate limited.
 
-    accessToken: 'pk.eyJ1IjoibmlzaGk4MjMiLCJhIjoiY210cjUxeXBhMDAxdzJ5cTRxcjJjN2VhYSJ9.yCGxwttMMktfZVn5Eqquag',
+    accessToken: 'pk.eyJ1IjoibmlzaGk4MjMiLCJhIjoiY210c250bjkzMDB1dzJ4czY0anF1ajFqayJ9.GbBxtgmtaYkE4WM_IgMLWQ',
     showMarkers: false,
     markerColor: '#3FB1CE',
     inset: true,
